@@ -60,7 +60,7 @@ CCNLs establish:
 | **Ferie (Annual Leave)** | 4 weeks per year (most CCNLs provide 4–5 weeks) |
 | **Permessi ROL** | Reduced working hours leave — varies by CCNL |
 | **Malattia (Sick Leave)** | INPS-covered; duration varies by CCNL |
-| **Maternità (Maternity Leave)** | 5 months compulsory (2 months before; 3 months after birth); paid at 80% by INPS |
+| **Maternità (Maternity Leave)** | 5 months compulsory (default: 2 months before + 3 months after birth; alternative splits permitted with medical approval); paid at 80% by INPS |
 | **Paternità (Paternity Leave)** | 10 days compulsory (2024); partially paid by INPS |
 | **Congedo parentale (Parental Leave)** | Up to 10 months between both parents; partial INPS payment |
 

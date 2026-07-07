@@ -99,7 +99,7 @@ If any of the above does not accurately reflect your situation, please let us kn
 
 **Payment terms:** [50% on signing / 100% on signing / etc.]
 
-**VAT:** ABAG's invoices are issued in EUR. [State applicable VAT treatment for the client — e.g., "As a non-Italian entity, you are not subject to Italian VAT on ABAG's fees" or "Italian VAT at 22% will be applied."]
+**VAT:** ABAG's invoices are issued in EUR. For U.S. clients receiving services from ABAG, the reverse charge mechanism typically applies — meaning no Italian VAT is charged on B2B services supplied to non-EU entities. [Confirm the specific VAT treatment with ABAG's tax team for each client situation, and state clearly in the proposal: e.g., "As a non-Italian entity, you are not subject to Italian VAT on ABAG's fees" or "Italian VAT at 22% will be applied where the service is provided to an Italian-registered entity."]
 
 ---
 

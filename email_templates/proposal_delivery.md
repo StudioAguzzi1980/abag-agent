@@ -20,7 +20,7 @@ The proposal covers:
 
 I've tried to reflect everything we discussed as accurately as possible — if I've missed anything or if the scope needs adjustment, please let me know and I'll revise accordingly.
 
-**Suggested next step:** I'd love to schedule a 30-minute call to walk through the proposal together, answer any questions, and discuss how best to move forward. You can book a time here: [BOOKING LINK] — or reply with your availability.
+**Suggested next step:** I'd love to schedule a 30-minute call to walk through the proposal together, answer any questions, and discuss how best to move forward. You can book a time here: [BOOKING LINK — use the team's standard scheduling tool, e.g., Calendly, Microsoft Bookings, or Google Calendar link] — or reply with your availability.
 
 The proposal is valid for 30 days from today's date.
 

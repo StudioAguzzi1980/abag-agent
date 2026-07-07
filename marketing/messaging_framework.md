@@ -46,7 +46,7 @@ This framework provides a structured approach to communicating ABAG's value acro
 - Integration with HQ financial systems
 
 **ABAG message:**
-> "ABAG gives U.S. multinationals a reliable, compliant Italian operation — fast. We set up the entity, manage the local accounting and compliance, and provide U.S.-GAAP-aligned reporting. One firm. No gaps."
+> "ABAG gives U.S. multinationals a reliable, compliant Italian operation — fast. We set up the entity, manage the local accounting and compliance, and provide U.S. GAAP-aligned reporting. One firm. No gaps."
 
 **Key proof points:**
 - Experience with U.S. parent company reporting structures

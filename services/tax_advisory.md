@@ -25,7 +25,7 @@ ABAG provides comprehensive Italian and cross-border tax advisory services to U.
 
 ### U.S.–Italy Cross-Border Tax Planning
 
-- Application of the U.S.–Italy Double Taxation Treaty (1999)
+- Application of the U.S.–Italy Double Taxation Treaty (signed 1984, protocol 1999)
 - Foreign tax credit planning for U.S. parent companies
 - Controlled Foreign Corporation (CFC) analysis under U.S. tax law
 - Permanent establishment risk assessment
