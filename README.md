@@ -44,6 +44,7 @@ abag-agent/
 - **Accounting** — Bookkeeping, financial reporting, and statutory accounts
 - **Corporate Compliance** — Ongoing regulatory and governance obligations
 - **Banking Support** — Assistance opening business bank accounts in Italy
+- **Lead Research** — Identifying and qualifying potential partners, distributors, and clients in Italy and Europe
 - **Business Expansion (U.S. to Italy/Europe)** — End-to-end support for American companies expanding abroad
 
 ---

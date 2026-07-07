@@ -108,7 +108,40 @@ One of the most practical challenges for foreign businesses entering Italy is op
 
 ---
 
-### 7. Business Expansion from the U.S. to Italy and Europe
+### 7. Lead Research
+
+ABAG provides targeted lead research services to help American companies identify and evaluate potential business partners, clients, distributors, and commercial opportunities in the Italian and European markets. This service supports both pre-entry due diligence and active market development.
+
+**Typical use cases:**
+- Identifying distributors, agents, or resellers for a product or service in Italy
+- Sourcing potential B2B customers or end-users in a specific Italian sector or region
+- Researching Italian companies for partnership, joint venture, or acquisition purposes
+- Mapping the competitive landscape and identifying key players in a target market
+- Qualifying inbound interest from Italian companies seeking American partners
+
+**Research methodology:**
+- Database and registry research using official Italian and EU business sources (e.g., Camera di Commercio databases, Registro delle Imprese, Cerved)
+- Sector-specific industry directories and trade association memberships
+- Trade show and event intelligence for relevant Italian and European industries
+- Direct outreach and qualification of identified prospects where required
+- Cross-referencing with ABAG's existing professional network in Italy
+
+**Deliverables typically include:**
+- A curated long list of potential leads with company name, sector, size, and contact information
+- A qualified short list with enriched profiles: key contacts, business activities, recent news, and fit assessment
+- Recommendations on how to approach identified leads given the client's market entry strategy
+- Optional ongoing lead monitoring and refreshing as the client's pipeline evolves
+
+**Key Italian and EU data sources used:**
+- Registro delle Imprese (Business Register) for company registration and financial data
+- Cerved and CRIF for credit information and company intelligence
+- ICE Agenzia (Italian Trade and Investment Agency) for sector and export data
+- Confindustria and sector-specific industry associations
+- EU open data portals and Eurostat for macro-level market intelligence
+
+---
+
+### 8. Business Expansion from the U.S. to Italy and Europe
 
 ABAG's flagship offering is comprehensive end-to-end support for American companies and entrepreneurs making the move into Italy and the European market. This service integrates all of the above disciplines into a coordinated expansion program.
 
