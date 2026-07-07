@@ -27,11 +27,30 @@ American Business Advisory Group specializes in helping U.S.-based companies and
 
 ```
 abag-agent/
-├── README.md          # Project overview (this file)
-├── SYSTEM_PROMPT.md   # AI assistant behavioral instructions
-├── KNOWLEDGE.md       # ABAG services and domain knowledge
-├── EXAMPLES.md        # Sample client interactions and ideal responses
-└── TODO.md            # Roadmap for future development
+├── README.md                              # Project overview (this file)
+├── SYSTEM_PROMPT.md                       # AI assistant behavioral instructions
+├── KNOWLEDGE.md                           # ABAG services and domain knowledge
+├── EXAMPLES.md                            # Sample client interactions and ideal responses
+├── TODO.md                                # Roadmap for future development
+│
+└── Knowledge Base/
+    ├── 01_Company_Formation/              # Italian company formation guides and templates
+    ├── 02_US_Companies_Entering_Italy/    # Resources for U.S. companies entering Italy
+    ├── 03_European_Expansion/             # European market expansion materials
+    ├── 04_Tax/                            # Italian and cross-border tax advisory content
+    ├── 05_Accounting/                     # Bookkeeping, reporting, and statutory accounts
+    ├── 06_Compliance/                     # Regulatory and corporate governance content
+    ├── 07_Banking/                        # Business banking guidance and support materials
+    ├── 08_Checklists/                     # Step-by-step process checklists
+    ├── 09_Email_Templates/                # Client communication email templates
+    ├── 10_LinkedIn_Posts/                 # LinkedIn content and social media posts
+    ├── 11_Sales_Playbooks/                # Sales process guides and playbooks
+    ├── 12_Client_FAQ/                     # Frequently asked questions by clients
+    ├── 13_Case_Studies/                   # Client case studies and success stories
+    ├── 14_Proposals/                      # Service proposals and pitch materials
+    ├── 15_Standard_Operating_Procedures/  # Internal SOPs and process documentation
+    ├── 16_AI_System_Prompts/              # AI assistant prompt library
+    └── 17_Marketing/                      # Marketing materials and campaigns
 ```
 
 ---
